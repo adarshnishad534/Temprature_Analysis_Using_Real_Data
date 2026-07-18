@@ -36,6 +36,15 @@ Support data-driven decision making
 🔍 Filter by date range / region
 
 
+<h1>👨‍💻 Author
+Adarsh Nishad</h1>
+
+GitHub: (https://github.com/adarshnishad534)
+
+LinkedIn:www.linkedin.com/in/adarsh-nishad-474222366
+
+
+
 
 <img width="1392" height="759" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/735e9f15-01c8-41f6-940d-ca5e54d0491a" />
 
